@@ -1,0 +1,6 @@
+arroz=1700
+huevo=7000
+leche=3500
+panela=2000
+queso=4000
+pasta=1200

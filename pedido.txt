@@ -1,0 +1,5 @@
+Pedido para la sucursal: cali
+{'arroz': 10, 'huevo': 20, 'leche': 30, 'panela': 40, 'queso': 50, 'pasta': 60}
+
+ Pedido para la sucursal: pasto
+{'arroz': 10, 'huevo': 20, 'leche': 30, 'panela': 40, 'queso': 50, 'pasta': 60}
